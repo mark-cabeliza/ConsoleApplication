@@ -1,0 +1,10 @@
+C:\Users\MRC\source\repos\CollectionApplication\CollectionApplication\bin\Debug\CollectionApplication.exe.config
+C:\Users\MRC\source\repos\CollectionApplication\CollectionApplication\bin\Debug\CollectionApplication.exe
+C:\Users\MRC\source\repos\CollectionApplication\CollectionApplication\bin\Debug\CollectionApplication.pdb
+C:\Users\MRC\source\repos\CollectionApplication\CollectionApplication\obj\Debug\CollectionApplication.csprojAssemblyReference.cache
+C:\Users\MRC\source\repos\CollectionApplication\CollectionApplication\obj\Debug\CollectionApplication.Form1.resources
+C:\Users\MRC\source\repos\CollectionApplication\CollectionApplication\obj\Debug\CollectionApplication.Properties.Resources.resources
+C:\Users\MRC\source\repos\CollectionApplication\CollectionApplication\obj\Debug\CollectionApplication.csproj.GenerateResource.cache
+C:\Users\MRC\source\repos\CollectionApplication\CollectionApplication\obj\Debug\CollectionApplication.csproj.CoreCompileInputs.cache
+C:\Users\MRC\source\repos\CollectionApplication\CollectionApplication\obj\Debug\CollectionApplication.exe
+C:\Users\MRC\source\repos\CollectionApplication\CollectionApplication\obj\Debug\CollectionApplication.pdb
